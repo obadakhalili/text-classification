@@ -6,4 +6,5 @@ pandas==1.4.2
 pip-chill==1.0.1
 rarfile==4.0
 sklearn==0.0
+tensorflow==2.8.0
 tokenize-rt==4.2.1
